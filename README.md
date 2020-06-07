@@ -1,5 +1,6 @@
 <html>
 <head>
+  <img src="C:\Users\ARITRO ROY MITRA\Desktop\PIT Brochure Cover.jpg">
 </head>
 <body>
 <h1>Who are We?</h1>
