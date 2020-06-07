@@ -1,6 +1,6 @@
 <html>
 <head>
-  <img src="C:\Users\ARITRO ROY MITRA\Desktop\PIT Brochure Cover.jpg">
+  <img src="C:\Users\ARITRO ROY MITRA\Desktop\PIT Brochure Cover.jpg" alt="PIT Head">
 </head>
 <body>
 <h1>Who are We?</h1>
