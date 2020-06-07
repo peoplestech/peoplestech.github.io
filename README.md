@@ -1,6 +1,6 @@
 <html>
 <head>
-![alt text](https://www.facebook.com/photo?fbid=115968786738495&set=a.103953567940017)
+![Demo Animation](C:\Users\ARITRO ROY MITRA\Desktop\PIT Brochure Cover.png?raw=true)
 </head>
 <body>
 <h1>Who are We?</h1>
