@@ -1,6 +1,6 @@
 <html>
 <head>
-  <img src="C:\Users\ARITRO ROY MITRA\Desktop\PIT Brochure Cover.jpg" alt="PIT Head">
+![alt text](https://www.facebook.com/photo?fbid=115968786738495&set=a.103953567940017)
 </head>
 <body>
 <h1>Who are We?</h1>
